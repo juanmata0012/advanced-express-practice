@@ -1,4 +1,4 @@
-export default[
+export default [
   {
     "_id": 1,
     "name": "Dale Cooper",
